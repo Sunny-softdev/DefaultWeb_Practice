@@ -30,3 +30,6 @@ git push origin master
 To pull for the latest changes
 git pul origin master
 
+Log Details:
+git log
+git log --oneline
