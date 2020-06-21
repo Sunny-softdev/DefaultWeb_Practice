@@ -23,3 +23,6 @@ git add .
 To see the difference between the previous and new added changes
 
 git diff --cached
+
+To push to the master
+git push origin master
