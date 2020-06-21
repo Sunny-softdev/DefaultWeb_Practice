@@ -26,3 +26,7 @@ git diff --cached
 
 To push to the master
 git push origin master
+
+To pull for the latest changes
+git pul origin master
+
