@@ -1,2 +1,2 @@
 # DefaultWeb_Practice
-This ia a text in a readme file
+This is a text in a readme file
