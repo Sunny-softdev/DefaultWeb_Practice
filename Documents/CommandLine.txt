@@ -1,0 +1,25 @@
+…or create a new repository on the command line
+echo "# DefaultWeb_Practice" >> README.md
+#Git Basic Commands
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Sunny-softdev/DefaultWeb_Practice.git
+git push -u origin master
+                
+…or push an existing repository from the command line
+git remote add origin https://github.com/Sunny-softdev/DefaultWeb_Practice.git
+git push -u origin master
+
+To check the status:
+git status -s
+
+To add any new changes:
+git add [filname]
+
+To add all the changes:
+git add .
+
+To see the difference between the previous and new added changes
+
+git diff --cached
