@@ -33,3 +33,9 @@ git pul origin master
 Log Details:
 git log
 git log --oneline
+
+Create a new branch:
+git branch [branch_name]
+
+Navigate to that branch:
+git checkout [branch_name]
