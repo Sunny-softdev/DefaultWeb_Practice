@@ -1,3 +1,4 @@
+
 …or create a new repository on the command line
 echo "# DefaultWeb_Practice" >> README.md
 #Git Basic Commands
@@ -40,5 +41,9 @@ git branch [branch_name]
 Navigate to that branch:
 git checkout [branch_name]
 
+<<<<<<< HEAD
 Create a branch if not exists and then switch to that branch:
 git checkout -b [branch_name]
+=======
+Text added to Feature01
+>>>>>>> Feature01
