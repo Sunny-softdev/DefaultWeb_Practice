@@ -39,3 +39,6 @@ git branch [branch_name]
 
 Navigate to that branch:
 git checkout [branch_name]
+
+Create a branch if not exists and then switch to that branch:
+git checkout -b [branch_name]
