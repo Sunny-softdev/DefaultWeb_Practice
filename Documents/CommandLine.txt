@@ -50,3 +50,5 @@ git commit -am "Commit"
 =======
 Text added to Feature01
 >>>>>>> Feature01
+
+Push developer branch to Remote
