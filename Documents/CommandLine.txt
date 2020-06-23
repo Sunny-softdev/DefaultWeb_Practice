@@ -50,3 +50,10 @@ git commit -am "Commit"
 =======
 Text added to Feature01
 >>>>>>> Feature01
+
+Push developer branch to Remote
+
+Command to push developer branch on remote:
+git push -u origin [branch_name]
+
+Changes to New Developer Branch created on Remote
