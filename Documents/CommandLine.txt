@@ -60,3 +60,7 @@ Changes to New Developer Branch created on Remote
 
 Delete Branch on Github:
 git push origin --delete [branch_name]
+
+Prune Command:
+git remote prune origin --dry-run
+git remote prune origin
