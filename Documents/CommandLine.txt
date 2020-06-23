@@ -57,3 +57,6 @@ Command to push developer branch on remote:
 git push -u origin [branch_name]
 
 Changes to New Developer Branch created on Remote
+
+Delete Branch on Github:
+git push origin --delete [branch_name]
