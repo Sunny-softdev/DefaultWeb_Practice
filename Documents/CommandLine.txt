@@ -44,6 +44,9 @@ git checkout [branch_name]
 <<<<<<< HEAD
 Create a branch if not exists and then switch to that branch:
 git checkout -b [branch_name]
+
+Add and commit:
+git commit -am "Commit"
 =======
 Text added to Feature01
 >>>>>>> Feature01
